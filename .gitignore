@@ -1,0 +1,14 @@
+# TLS certificates
+cert.pem
+key.pem
+
+# Runtime data
+leaderboard.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
