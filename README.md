@@ -258,20 +258,3 @@ This project demonstrates a **secure and scalable networked system** using:
 It reflects real-world distributed system design principles.
 
 ---
-
-##  Team Contributions
-
-* **Member 1**: Problem definition, architecture, protocol design
-* **Member 2**: Socket programming, concurrency implementation
-* **Member 3**: Security (TLS), performance analysis, optimization
-
----
-
-##  Future Improvements
-
-* Database integration (MySQL / MongoDB)
-* GUI-based client interface
-* Deployment on cloud server
-* User authentication system
-
----
